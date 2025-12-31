@@ -101,7 +101,7 @@ export default function Home() {
                     return (
                       <p key={idx} className="leading-relaxed text-slate-300">
                         {parts[0]}
-                        <a href="https://toolsvana.com/tool/csv-to-json" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 transition-colors underline decoration-cyan-400/30 hover:decoration-cyan-300">CSV to JSON</a>
+                        <a href="https://toolsvana.com/tool/json-csv-xml" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 transition-colors underline decoration-cyan-400/30 hover:decoration-cyan-300">CSV to JSON</a>
                         {parts[1]}
                       </p>
                     );

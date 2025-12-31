@@ -2,7 +2,7 @@
 
 A browser-based tool that converts CSV data to JSON format. Built with Next.js and runs entirely in your browser.
 
-🔗 **Live Demo:** [CSV to JSON](https://toolsvana.com/tool/csv-to-json)
+🔗 **Live Demo:** [CSV to JSON](https://toolsvana.com/tool/json-csv-xml)
 
 ## What it does
 
